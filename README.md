@@ -38,5 +38,6 @@ Your friend come to you asking you to create a tournament tracker. They're alway
 
 > [!NOTE]
 > [My MIRO board](https://miro.com/app/board/uXjVM8KB1Kk=/#tpicker-content) where I organize this project and my entire C# ( + OOP ) learning journey.
+
 > [!NOTE]
-[My Notion borad](https://www.notion.so/Code-Journey-3d04ee54f9ef4ab0b9a8243db4af2389?pvs=4) where I organize and schedule this project's progress.
+> [My Notion borad](https://www.notion.so/Code-Journey-3d04ee54f9ef4ab0b9a8243db4af2389?pvs=4) where I organize and schedule this project's progress.
