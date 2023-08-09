@@ -9,7 +9,7 @@ Your friend come to you asking you to create a tournament tracker. They're alway
 
 - Tracks games played and their outcome
 - Multiple competitors play in the tournament
-- - Creates a tournament plan (who plays in what order)
+- Creates a tournament plan (who plays in what order)
 - Schedule games
 - A single loss eliminates a player
 - The last player standing is the winner
